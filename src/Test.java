@@ -5,6 +5,8 @@ public class Test {
         System.out.println("Hallo fro434343wdwdswdw Github");
         System.out.println("HALLO Hasan");
         System.out.println("Hallo Basel");
+        Remot h=new Remot();
+        h.remote1();
 
     }
 }
