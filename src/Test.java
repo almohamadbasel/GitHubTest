@@ -7,7 +7,7 @@ public class Test {
         System.out.println("Hallo Basel");
         Remot h=new Remot();
         h.remote1();
-        System.out.println("Hallo catlight");
+        System.out.println("Hallo catlight")
 
     }
 }
