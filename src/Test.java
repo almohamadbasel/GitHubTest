@@ -8,7 +8,7 @@ public class Test {
         Remot h=new Remot();
         h.remote1();
     
-        System.out.println("Hello GitHub from Eclipse");
+        System.out.println("Hello GitHub");
 
     }
 }
